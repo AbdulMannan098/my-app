@@ -1,0 +1,27 @@
+.seller-dashboard {
+    background-color: #f0f0f0;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .seller-dashboard h1 {
+    color: #333;
+  }
+  
+  .seller-dashboard .col-lg-4 {
+    margin-bottom: 20px;
+  }
+  
+  .customer-questions {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    min-height: 150px;
+  }
+  
+  .customer-questions h2 {
+    color: #333;
+  }
+  

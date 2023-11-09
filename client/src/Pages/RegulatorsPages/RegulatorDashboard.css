@@ -1,0 +1,27 @@
+.regulator-dashboard {
+    background-color: #f9f9f9;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .regulator-dashboard h1 {
+    color: #333;
+  }
+  
+  .regulator-dashboard .col-lg-6 {
+    margin-bottom: 20px;
+  }
+  
+  .customer-support {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .customer-support h2 {
+    color: #333;
+  }
+  

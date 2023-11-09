@@ -1,0 +1,15 @@
+.order-management {
+    background-color: #f0f0f0;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .order-management h1 {
+    color: #333;
+  }
+  
+  .order-management .col-lg-4 {
+    margin-bottom: 20px;
+  }
+  
